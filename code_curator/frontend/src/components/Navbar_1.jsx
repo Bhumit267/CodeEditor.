@@ -28,7 +28,7 @@ const Navbar_1 = () => {
         <div className="logo w-full flex justify-between sm:justify-center items-center sm:w-auto mb-4 sm:mb-0 px-[1vw]">
           {/* linking to home page... */}
           <Link to="/" className="text-bold cursor-pointer">
-            <h1>CodeYourWay</h1>
+            <h1>Codexi</h1>
           </Link>
           <Drawer>
             <DrawerTrigger asChild>

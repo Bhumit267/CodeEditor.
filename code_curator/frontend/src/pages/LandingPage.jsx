@@ -39,7 +39,7 @@ const LandingPage = () => {
         <div className="mb-12 text-center">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 text-primary mb-6">
             <Sparkles className="w-4 h-4" />
-            <span className="text-sm font-medium">Welcome to CodeYourWay</span>
+            <span className="text-sm font-medium">Welcome to Codexi</span>
           </div>
           <h1 className="text-3xl sm:text-5xl font-bold mb-4">
             Hi, <span className="gradient-text">{isLoggedIn ? username : "Developer"}</span> 👋
