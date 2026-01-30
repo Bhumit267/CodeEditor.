@@ -56,8 +56,8 @@ Follow these steps to set up the project locally.
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/Bhumit267/codeyourway.git
-    cd codeyourway
+    git clone https://github.com/Bhumit267/codexi.git
+    cd codexi
     ```
 
 2.  **Setup Backend**
@@ -65,7 +65,7 @@ Follow these steps to set up the project locally.
     cd code_curator/backend
     npm install
     ```
-    Create a `.env` file in `backend/`:
+    Create a `.env` file in `code_curator/backend/`:
     ```env
     PORT=3000
     MONGO_URI=your_mongodb_connection_string
@@ -100,9 +100,7 @@ Follow these steps to set up the project locally.
 4.  **Open in Browser**
     Visit `http://localhost:5173` to start coding!
 
-## 📸 Screenshots
 
-*(Add screenshots here showing the Dashboard, Playground, and Profile)*
 
 ## 🤝 Contributing
 
